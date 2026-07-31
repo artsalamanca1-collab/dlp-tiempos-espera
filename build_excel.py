@@ -130,16 +130,18 @@ def hoja_resumen(wb, atracciones, n):
 
 def hoja_perfil(wb, atracciones, n):
     ws = wb.create_sheet("Perfil horario")
-    ws["A1"] = "Espera media standby por hora del dia"
+    ws["A1"] = "Espera media standby por franja de media hora"
     ws["A1"].font = TITLE_FONT
-    ws["A2"] = "Celda vacia = no hay muestras a esa hora en el rango cargado."
+    ws["A2"] = "Celda vacia = no hay muestras en esa franja en el rango cargado."
     ws["A2"].font = SMALL
 
-    cabecera(ws, 4, ["Atraccion"] + [f"{h:02d}h" for h in HORAS],
-             [40] + [7] * len(HORAS))
+    franjas = [(h, m) for h in HORAS for m in (0, 30)]
+    cabecera(ws, 4, ["Atraccion"] + [f"{h:02d}:{m:02d}" for h, m in franjas],
+             [40] + [7] * len(franjas))
 
     D = f"Datos!$E$2:$E${n}"
     H = f"Datos!$B$2:$B${n}"
+    M = f"Datos!$C$2:$C${n}"
     T = f"Datos!$F$2:$F${n}"
     W = f"Datos!$G$2:$G${n}"
 
@@ -147,8 +149,10 @@ def hoja_perfil(wb, atracciones, n):
     for nombre, _parque in atracciones:
         ws.cell(row=r, column=1, value=nombre).font = BODY
         ws.cell(row=r, column=1).border = BORDER
-        for i, h in enumerate(HORAS, start=2):
-            f = (f'=IFERROR(ROUND(AVERAGEIFS({W},{D},$A{r},{H},{h},{T},"STANDBY"),0),"")')
+        for i, (h, m) in enumerate(franjas, start=2):
+            min_cond = f'{M},"<30"' if m == 0 else f'{M},">=30"'
+            f = (f'=IFERROR(ROUND(AVERAGEIFS({W},{D},$A{r},{H},{h},{min_cond},'
+                 f'{T},"STANDBY"),0),"")')
             c = ws.cell(row=r, column=i, value=f)
             c.font, c.border = BODY, BORDER
             c.alignment = Alignment(horizontal="center")
