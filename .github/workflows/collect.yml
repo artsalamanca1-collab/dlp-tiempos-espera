@@ -3,9 +3,11 @@ name: Recoger tiempos de espera DLP
 on:
   schedule:
     # Cada 15 min entre las 06:30 y las 22:45 UTC (cubre 08:30-00:45 en Paris,
-    # verano e invierno). GitHub puede retrasar el disparo unos minutos; la fila
-    # guarda la hora real de la muestra, no la programada.
-    - cron: "*/15 6-22 * * *"
+    # verano e invierno). Minutos desplazados (7/22/37/52) a proposito: GitHub
+    # satura y a veces descarta disparos justo en los minutos redondos
+    # (:00/:15/:30/:45), que es cuando el resto del mundo tambien programa sus
+    # crons. La fila guarda la hora real de la muestra, no la programada.
+    - cron: "7,22,37,52 6-22 * * *"
   workflow_dispatch:
 
 concurrency:
