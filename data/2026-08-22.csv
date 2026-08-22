@@ -1859,3 +1859,65 @@ timestamp_utc,fecha,hora,minuto,parque,atraccion,atraccion_id,estado,tipo_cola,e
 2026-08-22T09:30:49Z,2026-08-22,11,30,Disney Adventure World,Entry to World of Frozen,16247,OPERATING,STANDBY,0,,,queue-times.com
 2026-08-22T09:30:49Z,2026-08-22,11,30,Disney Adventure World,Frozen Ever After,15413,OPERATING,STANDBY,70,,,queue-times.com
 2026-08-22T09:30:49Z,2026-08-22,11,30,Disney Adventure World,Raiponce Tangled Spin,15415,OPERATING,STANDBY,15,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Adventure Isle,2702,OPERATING,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Indiana Jones and the Temple of Peril Single Rider,7306,OPERATING,STANDBY,5,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Indiana Jones™ and the Temple of Peril,2,OPERATING,STANDBY,15,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,La Cabane des Robinson,1,OPERATING,STANDBY,5,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Le Passage Enchanté d'Aladdin,2703,OPERATING,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Pirate Galleon,2705,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Pirates of the Caribbean,3,OPERATING,STANDBY,20,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Pirates' Beach,2704,OPERATING,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,"Autopia, presented by Avis",4,OPERATING,STANDBY,25,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Buzz Lightyear Laser Blast,5,OPERATING,STANDBY,25,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Disneyland Railroad Discoveryland Station,2706,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Les Mystères du Nautilus,6,OPERATING,STANDBY,5,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Mickey’s PhilharMagic,2707,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Orbitron®,7,OPERATING,STANDBY,50,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Star Tours: The Adventures Continue*,9,OPERATING,STANDBY,5,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Star Wars Hyperspace Mountain,8,OPERATING,STANDBY,20,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Star Wars Hyperspace Mountain Single Rider,7278,OPERATING,STANDBY,10,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Welcome to Starport: A Star Wars Encounter,4573,OPERATING,STANDBY,15,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,"""it's a small world""",19,OPERATING,STANDBY,5,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Alice's Curious Labyrinth,14,OPERATING,STANDBY,5,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Blanche-Neige et les Sept Nains®,15,OPERATING,STANDBY,15,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Casey Jr. – le Petit Train du Cirque,17,OPERATING,STANDBY,25,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Disneyland Railroad Fantasyland Station,2711,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Disneyland Railroad Main Street Station,11,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Dumbo the Flying Elephant,18,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,La Tanière du Dragon,2710,OPERATING,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Le Carrousel de Lancelot,16,OPERATING,STANDBY,5,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,"Le Pays des Contes de Fées, presented by Vittel",21,OPERATING,STANDBY,5,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Les Voyages de Pinocchio,23,OPERATING,STANDBY,25,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Mad Hatter's Tea Cups,20,OPERATING,STANDBY,5,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Meet Mickey Mouse,13,OPERATING,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Peter Pan's Flight,22,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Princess Pavilion,24,OPERATING,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Big Thunder Mountain,25,OPERATING,STANDBY,50,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Disneyland Railroad Frontierland Depot,2714,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Frontierland Playground,2713,OPERATING,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Phantom Manor,26,OPERATING,STANDBY,15,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,River Rogue Keelboats,27,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Rustler Roundup Shootin' Gallery,2712,OPERATING,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Thunder Mesa Riverboat Landing,28,OPERATING,STANDBY,20,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Disneyland Railroad Main Street Station,2708,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disneyland Park,Main Street Vehicles,12,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Avengers Assemble: Flight Force,10848,OPERATING,STANDBY,30,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Avengers Assemble: Flight Force Single Rider,10849,OPERATING,STANDBY,20,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Spider-Man W.E.B. Adventure,10845,OPERATING,STANDBY,70,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Spider-Man W.E.B. Adventure Single Rider,10846,OPERATING,STANDBY,25,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,The Twilight Zone Tower of Terror,40,OPERATING,STANDBY,40,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Cars Quatre Roues Rallye,31,OPERATING,STANDBY,30,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Cars ROAD TRIP,29,OPERATING,STANDBY,20,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Crush's Coaster,32,OPERATING,STANDBY,90,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Crush's Coaster Single Rider,7277,OPERATING,STANDBY,70,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Les Tapis Volants - Flying Carpets Over Agrabah®,33,OPERATING,STANDBY,30,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Ratatouille : L’Aventure Totalement Toquée de Rémy​,37,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Ratatouille: The Adventure Single Rider,7279,CLOSED,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,RC Racer,34,OPERATING,STANDBY,60,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,RC Racer Single Rider,7280,OPERATING,STANDBY,55,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Slinky® Dog Zigzag Spin,36,OPERATING,STANDBY,25,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Toy Soldiers Parachute Drop,35,OPERATING,STANDBY,60,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Toy Soldiers Parachute Drop Single Rider,7281,OPERATING,STANDBY,15,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Entry to World of Frozen,16247,OPERATING,STANDBY,0,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Frozen Ever After,15413,OPERATING,STANDBY,70,,,queue-times.com
+2026-08-22T09:45:35Z,2026-08-22,11,45,Disney Adventure World,Raiponce Tangled Spin,15415,OPERATING,STANDBY,5,,,queue-times.com
